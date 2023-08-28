@@ -44,7 +44,7 @@ const headers = {
 
 // 22283872是我的
 
-const body = `{"referral_code":"22283872","client_system":4,"password":"qq123456","email":"96jm5@163.com"}`;
+const body = `{"referral_code":"22352932","client_system":4,"password":"qq123456","email":"96jm5@163.com"}`;
 
 const randomEmail = Math.random().toString(36).substring(7) + '@163.com';
 const randomPassword = Math.random().toString(36).substring(7);
